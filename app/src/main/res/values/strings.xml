@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitPost</string>
+    <string name="download">Загрузить</string>
+    <string name="exit">Exit</string>
+</resources>
